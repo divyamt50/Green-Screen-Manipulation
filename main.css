@@ -1,0 +1,14 @@
+canvas
+{
+  border:5px solid;
+  border-radius:30px;
+  width:300px;
+}
+
+body 
+{
+  background-color:gold;
+  font-family:arial;
+  color:red;
+}
+
